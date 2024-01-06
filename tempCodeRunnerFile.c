@@ -1,0 +1,1 @@
+printf("\na = %d b = %d",*x,*y);
